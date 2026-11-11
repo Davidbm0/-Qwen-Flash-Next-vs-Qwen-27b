@@ -1,0 +1,34 @@
+[
+  {
+    "id": "p1_dijkstra",
+    "flashnext": {
+      "ok": true,
+      "t": 211.9,
+      "attempts": 2
+    }
+  },
+  {
+    "id": "p2_microstrip",
+    "flashnext": {
+      "ok": false,
+      "t": 373.3,
+      "attempts": 4
+    }
+  },
+  {
+    "id": "p3_txengine",
+    "flashnext": {
+      "ok": false,
+      "t": 408.9,
+      "attempts": 4
+    }
+  },
+  {
+    "id": "p4_pdn",
+    "flashnext": {
+      "ok": true,
+      "t": 190.7,
+      "attempts": 2
+    }
+  }
+]
